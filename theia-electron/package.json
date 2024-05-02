@@ -36,7 +36,7 @@
         "@theia/electron": "next",
         "@theia/file-search": "next",
         "@theia/filesystem": "next",
-        "@theia/git": "next",
+        "@theia/git": "1.46.0",
         "@theia/java": "next",
         "@theia/json": "next",
         "@theia/keymaps": "next",
